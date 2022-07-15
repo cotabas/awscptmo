@@ -35,7 +35,6 @@ footer {
   display: flex;
   justify-self: flex-end;
   flex-direction: column;
-  bottom: 0;
 }
 #social {
   align-self: center;
