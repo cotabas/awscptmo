@@ -31,7 +31,16 @@ h1 {
   min-width: 80px;
   color: var(--drk);
 }
-
+.orange {
+  color: #EA580C;
+}
+#logoText {
+  display: flex;
+  position: absolute;
+  padding-left: 270px;
+  height: 16px;
+  top: 120px;
+}
 /* *********** Footer ************************ */
 footer {
   display: flex;
